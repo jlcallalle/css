@@ -19,5 +19,9 @@ Esta lista de códigos y recursos son sobre el ecosistema CSS actual, convencion
   - También eche un vistazo a la información detallada sobre la propiedad [box-sizing](https://css-tricks.com/box-sizing/)
 
 
+## Herramientas CSS
+- [ PurgeCSS ](https://purgecss.com/) - Herramienta para eliminar CSS no utilizado.
+
+
 <!-- https://github.com/micromata/awesome-css-learning/blob/master/readme.md -->
 <!-- https://github.com/ADDA-html-css/learn-HTML-CSS -->
