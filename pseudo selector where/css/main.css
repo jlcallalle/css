@@ -1,0 +1,11 @@
+main :where(h1, h2, h3) {
+  color: orange;
+}
+
+:is(.header, .footer) a {
+  color: red;
+}
+
+h3:where(#specific-header) {
+  outline: 1px solid yellow;
+}
